@@ -1,1 +1,4 @@
-
+out/
+.idea/
+.git/
+lecture.iml

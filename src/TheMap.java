@@ -4,7 +4,7 @@ import java.util.*;
 
 public class TheMap {
 
-  public static String FILE_PATH = "src/the_world.txt";
+  public static String FILE_PATH = "src/graph.txt";
   
   public HashMap<String, Vertex> nodes;
   public Graph graph;
